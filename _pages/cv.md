@@ -11,30 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.Sc. in Data Science and Business Analytics (*thesis*), 2022 
+* B.Com. in International Business, University of Victoria, 2016
+* B.Sc. in Economics, Sun Yat-sen University, 2013
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Sep. 2022 to *present*: A.I. and Data Engineer
+  * Royal Bank of Canada
+  * Focus on: graph data
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jun. 2021 to Jun. 2022: Data Scientist
+  * ElligencIA
+  * Focused on: Natural Language Processing and Optimization
+  * Product: Developed market sentiment index tool: [Ellisense](https://ellisense.com/) from scratch to production-ready for assets of currencies and cryptos
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Data Engineering
+* MLOps
 
 Publications
 ======
@@ -54,6 +49,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
