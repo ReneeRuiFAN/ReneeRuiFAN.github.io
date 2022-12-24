@@ -1,7 +1,7 @@
 ---
 title: "Risk-Aware Bid Optimization for Online Display Advertisement"
 collection: talks
-type: "Talk"
+type: "Conference"
 permalink: /talks/2022-05-16-optimization_day
 venue: "HEC Montreal"
 date: 2022-05-16
