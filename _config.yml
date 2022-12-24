@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rui Fan's Personal Website"
+title                    : "HomePage"
 title_separator          : "-"
 name                     : &name "Rui Fan"
 description              : &description "personal description"

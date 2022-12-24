@@ -11,22 +11,26 @@ redirect_from:
 
 Education
 ======
-* M.Sc. in Data Science and Business Analytics (*thesis*), 2022 
-* B.Com. in International Business, University of Victoria, 2016
-* B.Sc. in Economics, Sun Yat-sen University, 2013
+* M.Sc. in Data Science and Business Analytics (*thesis*), HEC Montreal, Canada, 2022 
+* B.Com. in International Business, University of Victoria, Canada, 2016
+* B.Sc. in Economics, Sun Yat-sen University, China, 2013
 
 Work experience
 ======
-* Sep. 2022 to *present*: A.I. and Data Engineer
+* Sep. 2022 to *present*, Toronto ON: A.I. and Data Engineer
   * Royal Bank of Canada
-  * Focus on: graph data
+  * Focus on: Graph Learning
 
-* Jun. 2021 to Jun. 2022: Data Scientist
+* Jun. 2021 to Jun. 2022, Montreal QC: Data Scientist
   * ElligencIA
   * Focused on: Natural Language Processing and Optimization
-  * Product: Developed market sentiment index tool: [Ellisense](https://ellisense.com/) from scratch to production-ready for assets of currencies and cryptos
+  * Product: Developed a market sentiment index tool [Ellisense](https://ellisense.com/) from scratch to production-ready for financial assets in the categories of currencies and cryptos
   
 Skills
 ======
 * Data Engineering
 * MLOps
+
+Projects
+======
+* Recommendation System Design on Douban Movies Dataset [paper](https://reneeruifan.github.io/website/files/movie.pdf)

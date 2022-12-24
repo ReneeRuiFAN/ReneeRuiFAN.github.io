@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Rui's personal websites"
+title: "Rui Fan  范睿"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -14,7 +14,7 @@ Publications
 ======
 * Risk-Aware Bid Optimization for Online Display Advertisement (CIKM '22) [paper](https://dl.acm.org/doi/10.1145/3511808.3557436)
 
-Working draft
+Work in Progress
 ------
 1. entity alignment
 1. benchmark
