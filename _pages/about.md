@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Rui Fan  范睿"
+title: "Rui Fan"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -16,9 +16,9 @@ Publications
 
 Work in Progress
 ------
-1. entity alignment
-1. benchmark
+1. Entity alignment
+1. Benchmark
 
 Contact Me
 ------
-Please feel free to contact me by email if you are interested in my research. 
+Please get in touch with me if you are interested in research collaborations!
