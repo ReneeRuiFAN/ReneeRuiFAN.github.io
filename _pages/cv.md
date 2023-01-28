@@ -21,12 +21,13 @@ Work experience
   * Focus on: Graph Learning
   * Product: NORA
 
-* Jun. 2021 to Jun. 2022, Montreal QC: Data Scientist @ ElligencIA
+* Jun. 2021 to Jun. 2022, Montréal QC: Data Scientist @ ElligencIA
   * Focused on: Natural Language Processing and Optimization
   * Product: Developed a market sentiment index tool [Ellisense](https://ellisense.com/) from scratch to production-ready for financial assets in the categories of currencies and cryptos
 
-Awards
+Scholarships & Fundings
 ======
+* NSERC (RGPIN-2016-05208)
 * Research Scholarships for Foreign Students (Bourses de recherche pour étudiants étrangers - Fondation Boucaro) in 2022
 * Fin-ML CREATE Scholarship in 2021
 * Mitacs Research Grant in 2020
