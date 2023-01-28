@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Rui Fan is a master's graduate of HEC Montreal and GERAD, and a current A.I. and Data Engineer at the Royal Bank of Canada. Her areas of research include optimization and machine learning. She is particularly interested in risk-aware optimization, integrated machine learning with operation research, and its applications in finance and e-commerce industries.
+Rui Fan is a master's graduate of HEC Montreal and GERAD, and a current A.I. and Data Engineer at the Royal Bank of Canada. Her areas of research include optimization and machine learning. She is particularly interested in robustness, optimization, integrated machine learning with operation research and its applications in finance and e-commerce industries.
 
 Publications
 ======

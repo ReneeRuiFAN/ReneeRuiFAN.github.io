@@ -17,12 +17,11 @@ Education
 
 Work experience
 ======
-* Sep. 2022 to *present*, Toronto ON: A.I. and Data Engineer
-  * Royal Bank of Canada
+* Sep. 2022 to *present*, Toronto ON: A.I. and Data Engineer @ Royal Bank of Canada
   * Focus on: Graph Learning
+  * Product: NORA
 
-* Jun. 2021 to Jun. 2022, Montreal QC: Data Scientist
-  * ElligencIA
+* Jun. 2021 to Jun. 2022, Montreal QC: Data Scientist @ ElligencIA
   * Focused on: Natural Language Processing and Optimization
   * Product: Developed a market sentiment index tool [Ellisense](https://ellisense.com/) from scratch to production-ready for financial assets in the categories of currencies and cryptos
   
