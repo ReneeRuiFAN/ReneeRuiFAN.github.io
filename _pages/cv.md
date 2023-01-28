@@ -33,4 +33,4 @@ Skills
 
 Projects
 ======
-* Recommendation System Design on Douban Movies Dataset [paper](https://reneeruifan.github.io/website/files/movie.pdf)
+* Recommendation System Design on Douban Movies Dataset [paper](https://reneeruifan.github.io/files/movie.pdf)
