@@ -11,17 +11,17 @@ redirect_from:
 
 Education
 ======
-* M.Sc. in Data Science and Business Analytics (*thesis*), Université de Montréal (HEC Montréal), Canada, 2022 
+* M.Sc. in Data Science and Business Analytics (*Thesis*), Université de Montréal (HEC Montréal), Canada, 2022 
 * B.Com. in International Business, University of Victoria, Canada, 2016
 * B.Sc. in Economics, Sun Yat-sen University, China, 2013
 
 Work experience
 ======
-* Sep. 2022 to *present*, Toronto ON: A.I. and Data Engineer @ Royal Bank of Canada
+* Sep. 2022 to *present*, Toronto ON: A.I. and Data Engineer @ **[Royal Bank of Canada](https://www.rbcroyalbank.com/)**
   * Focus on: Graph Learning
   * Product: NORA
 
-* Jun. 2021 to Jun. 2022, Montréal QC: Data Scientist @ ElligencIA
+* Jun. 2021 to Jun. 2022, Montréal QC: Data Scientist @ **[ElligencIA](https://www.elligencia.com/)**
   * Focused on: Natural Language Processing and Optimization
   * Product: Developed a market sentiment index tool [Ellisense](https://ellisense.com/) from scratch to production-ready for financial assets in the categories of currencies and cryptos
 
