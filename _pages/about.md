@@ -21,4 +21,4 @@ Work in Progress
 
 Contact Me
 ------
-Please get in touch with me if you are interested in research collaborations!
+Please contact me at <ruifan.renee@gmail.com> if you are interested in research collaborations!
