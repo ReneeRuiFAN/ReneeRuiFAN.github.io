@@ -2,7 +2,7 @@
 title: "Fin-ML's 5-year Anniversary"
 collection: talks
 type: "Conference"
-permalink: /talks/2023-11-07-Fin-ML_anniversary.md
+permalink: /talks/2023-11-07-Fin-ML_anniversary
 venue: "HEC Montreal"
 date: 2023-11-07
 location: "Montreal, QC, Canada"
